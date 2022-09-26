@@ -10,7 +10,7 @@ struct Imagem
 
 void leImagem(Imagem &imagem)
 {
-    char nquero[2];
+    char nquero[3];
 
     cin >> nquero;
     cin >> imagem.ncolumns;
